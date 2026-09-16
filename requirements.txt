@@ -1,0 +1,7 @@
+playwright==1.63.0
+pydantic==2.13.5
+python-dotenv==1.2.3
+httpx==0.28.1
+beautifulsoup4==4.15.0
+openai==3.14.1
+groq==1.7.0
