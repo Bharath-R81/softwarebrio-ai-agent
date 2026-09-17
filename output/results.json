@@ -1,67 +1,21 @@
 [
   {
-    "domain": "postman.com",
+    "domain": "stripe.com",
     "success": true,
     "data": {
-      "company_name": "Postman",
-      "domain": "postman.com",
-      "company_overview": "Postman is an API platform for building and using APIs. It simplifies each step of the API lifecycle and streamlines collaboration so you can create better APIs—faster.",
-      "target_audience": "Engineers and API teams in enterprises and individuals building and testing APIs.",
+      "company_name": "Stripe",
+      "domain": "stripe.com",
+      "company_overview": "Stripe is a technology company that builds programmable financial infrastructure to help businesses accept payments and grow globally. It powers more than 5 million businesses, processing trillions of dollars in payments each year.",
+      "target_audience": "Businesses of all sizes, from solo founders to Fortune 100 companies, including startups, enterprises, platforms, marketplaces, and fintech.",
       "public_contact_emails": [
-        "accommodations@postman.com",
-        "info-jp@postman.com",
-        "info@postman.com"
+        "billing@example.com",
+        "damian.michelfelder@example.com",
+        "jane.diaz@stripe.com",
+        "jane.smith@example.com",
+        "jane@example.com",
+        "taro.yamada@example.com",
+        "u003csalesemailsales@stripe.com"
       ],
-      "leadership_team": [
-        {
-          "name": "Abhinav Asthana",
-          "role": "CEO and co-founder",
-          "linkedin_url": "https://www.linkedin.com/in/abhinavasthana"
-        },
-        {
-          "name": "Ankit Sobti",
-          "role": "co-founder",
-          "linkedin_url": "https://www.linkedin.com/in/ankit-sobti"
-        },
-        {
-          "name": "Abhijit Kane",
-          "role": "co-founder",
-          "linkedin_url": "https://in.linkedin.com/in/abhijitkane"
-        }
-      ],
-      "confidence_score": 0.95
-    },
-    "error": null
-  },
-  {
-    "domain": "supabase.com",
-    "success": true,
-    "data": {
-      "company_name": "Supabase",
-      "domain": "supabase.com",
-      "company_overview": "Supabase is an open-source Postgres development platform that provides a suite of tools including authentication, real-time data, storage, and edge functions. It enables developers to build, scale, and manage applications quickly without managing infrastructure.",
-      "target_audience": "software developers, startups, and enterprise teams building web, mobile, and AI applications on Postgres.",
-      "public_contact_emails": [
-        "abuse@supabase.com",
-        "help-events@supabase.com",
-        "legal@supabase.com",
-        "privacy@supabase.com",
-        "security@supabase.com"
-      ],
-      "leadership_team": [],
-      "confidence_score": 0.95
-    },
-    "error": null
-  },
-  {
-    "domain": "vapi.ai",
-    "success": true,
-    "data": {
-      "company_name": "Vapi",
-      "domain": "vapi.ai",
-      "company_overview": "Vapi builds advanced voice AI agents that enable businesses to deploy, monitor, and scale voice interactions quickly. The platform offers enterprise‑grade features such as real‑time monitoring, guardrails, and compliance with SOC2, HIPAA, and PCI.",
-      "target_audience": "Enterprise‑level businesses and teams that need reliable, scalable voice AI solutions for customer support, lead qualification, and other conversational use cases.",
-      "public_contact_emails": [],
       "leadership_team": [],
       "confidence_score": 0.9
     },
